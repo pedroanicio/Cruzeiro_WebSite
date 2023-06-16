@@ -120,7 +120,7 @@
 					<a href="#">
 						<img src="../png/produtos/caneca.png" height="300px" alt="caneca" class="produto-img">
 						<h3>CANECA CRUZEIRO BRANCA E AZUL - BRANCO</h3>
-						<div class="estrelas"  data-score="5"></div>
+						<div class="estrelas" data-score="5"></div>
 						<div class="text-qtd-reviews text-arial-cinza">(300)</div>
 						<div class="text-valor text-roxo">R$ 74,90</div>
 						<div class="text-parcelado text-arial-cinza">3x de R$ 24,99 sem juros</div>
@@ -166,8 +166,23 @@
 <?php include_once("footer.php");?>
 
 <script>
-angular.module("shop", []).controller("destaque-controller", function($scope){
-	$scope.produtos = [];
+angular.module("shop", []).controller("destaque-controller", function($scope, $http){
+
+$scope.produtos = [];
+
+$http({
+  method: 'GET',
+  url: '../png/produtos'
+}).then(function successCallback(response) {
+
+	$scope.produtos = response.data;
+
+
+  }, function errorCallback(response) {
+	// called asynchronously if an error occurs
+	// or server returns response with an error status.
+  });
+	  
 
 	$scope.produtos.push({
 		nome_prod_longo: "CAMISA CRUZEIRO I 23/24 S/N° TORCEDOR ADIDAS MASCULINA - AZUL",

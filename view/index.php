@@ -18,7 +18,7 @@
 
                 <div class="item"><a href="#">
                     <div class="item-inner">
-                        <img src="png/noticia.png" alt="Notícia">
+                        <img src="../png/noticia.png" alt="Notícia">
                         <h3>Contratações do Cruzeiro: Veja quem chega, quem fica e quem sai</h3>
                         </a>
                         <time>24 Abril, 2023</time>
@@ -27,7 +27,7 @@
 
                 <div class="item"><a href="#">
                     <div class="item-inner">
-                        <img src="png/noticia.png" alt="Notícia">
+                        <img src="../png/noticia.png" alt="Notícia">
                         <h3>Contratações do Cruzeiro: Veja quem chega, quem fica e quem sai</h3>
                         </a>
                         <time>24 Abril, 2023</time>
@@ -36,7 +36,7 @@
 
                 <div class="item"><a href="#">
                     <div class="item-inner">
-                        <img src="png/noticia.png" alt="Notícia">
+                        <img src="../png/noticia.png" alt="Notícia">
                         <h3>Contratações do Cruzeiro: Veja quem chega, quem fica e quem sai</h3>
                         </a>
                         <time>24 Abril, 2023</time>
@@ -45,7 +45,7 @@
                 
                 <div class="item"><a href="#">
                     <div class="item-inner">
-                        <img src="png/noticia.png" alt="Notícia">
+                        <img src="../png/noticia.png" alt="Notícia">
                         <h3>Contratações do Cruzeiro: Veja quem chega, quem fica e quem sai</h3>
                         </a>
                         <time>24 Abril, 2023</time>
@@ -54,7 +54,7 @@
 
                 <div class="item"><a href="#">
                     <div class="item-inner">
-                        <img src="png/noticia.png" alt="Notícia">
+                        <img src="../png/noticia.png" alt="Notícia">
                         <h3>Contratações do Cruzeiro: Veja quem chega, quem fica e quem sai</h3>
                         </a>
                         <time>24 Abril, 2023</time>
@@ -63,7 +63,7 @@
 
                 <div class="item"><a href="#">
                     <div class="item-inner">
-                        <img src="png/noticia.png" alt="Notícia">
+                        <img src="../png/noticia.png" alt="Notícia">
                         <h3>Contratações do Cruzeiro: Veja quem chega, quem fica e quem sai</h3>
                         </a>
                         <time>24 Abril, 2023</time>
@@ -72,7 +72,7 @@
 
                 <div class="item"><a href="#">
                     <div class="item-inner">
-                        <img src="png/noticia.png" alt="Notícia">
+                        <img src="../png/noticia.png" alt="Notícia">
                         <h3>Contratações do Cruzeiro: Veja quem chega, quem fica e quem sai</h3>
                         </a>
                         <time>24 Abril, 2023</time>
@@ -81,7 +81,7 @@
 
                 <div class="item"><a href="#">
                     <div class="item-inner">
-                        <img src="png/noticia.png" alt="Notícia">
+                        <img src="../png/noticia.png" alt="Notícia">
                         <h3>Contratações do Cruzeiro: Veja quem chega, quem fica e quem sai</h3>
                         </a>
                         <time>24 Abril, 2023</time>
